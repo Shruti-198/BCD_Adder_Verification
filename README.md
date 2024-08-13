@@ -1,1 +1,1 @@
-# BCD_Adder_Verification
+# BCD Adder Verification Using SAT
